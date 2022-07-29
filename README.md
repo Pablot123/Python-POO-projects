@@ -1,1 +1,1 @@
-# Python-POO-projects
+# Object oriented programing projects with python
